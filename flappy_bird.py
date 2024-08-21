@@ -162,7 +162,7 @@ class Base:
 
 
 # window ---------------------------------------------------------
-def draw_window(win, birds, pipes, base, score, gen):
+def draw_window(win, birds, pipes, base, score):
     win.blit(bg_img, (0, 0))
 
     for pipe in pipes:
