@@ -8,8 +8,8 @@ https://github.com/user-attachments/assets/7415bdc0-4e74-475a-8cb6-f9be159145d9
 ## The NEAT Algorithm
 
 ### How NEAT Works
-The NEAT algorithm (NeuroEvolution of Augmenting Topologies) is a method used to evolve neural networks. It's like a combination of genetic algorithms and neural networks. It works like this:
-1. NEAT starts with a simple NN of few neurons and connections.
+NEAT (NeuroEvolution of Augmenting Topologies) is an evolutionary algorithm that creates artificial neural networks. It works like this:
+1. Start with a simple NN of few neurons and connections.
 2. **Evolve by mutation:** The algorithm randomly modifies (mutates) the NN by for example:
    - Adding a new neuron.
    - Adding a new connection between neurons.
