@@ -1,5 +1,5 @@
 # FLAPPY BIRD BUT NEAT
- AI learns to play Flappy Bird using the NEAT python module.
+ AI learns to play Flappy Bird using the [NEAT python module](https://neat-python.readthedocs.io/en/latest/neat_overview.html).
 
 ## Demo
 
